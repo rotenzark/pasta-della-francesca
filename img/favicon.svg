@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#C0432E"/>
+  <g transform="translate(8 8)">
+    <path d="M24 44 L24 14" stroke="#D6A24B" stroke-width="2.6" stroke-linecap="round"/>
+    <g fill="#D6A24B">
+      <path d="M24 16 q7 -3 9 -9 q-7 1 -9 7 z"/><path d="M24 16 q-7 -3 -9 -9 q7 1 9 7 z"/>
+      <path d="M24 24 q7 -3 9 -9 q-7 1 -9 7 z"/><path d="M24 24 q-7 -3 -9 -9 q7 1 9 7 z"/>
+      <path d="M24 32 q7 -3 9 -9 q-7 1 -9 7 z"/><path d="M24 32 q-7 -3 -9 -9 q7 1 9 7 z"/>
+    </g>
+    <path d="M24 12 q0 -5 4 -8 q-1 5 -4 8 z M24 12 q0 -5 -4 -8 q1 5 4 8 z" fill="#D6A24B"/>
+  </g>
+</svg>
